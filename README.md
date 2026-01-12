@@ -10,8 +10,8 @@ This GitHub profile is used as my e-portfolio for the course Technology and Info
   Universiti Teknologi Malaysia (UTM)
 
 ## Skills
-- Programming: C++, Basic Python
-- Tools: Git, GitHub
+- Programming: C++
+- Tools: GitHub
 - Technical: PC Assembly, Basic Networking
 - Soft Skills: Teamwork, Communication
 
