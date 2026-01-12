@@ -1,7 +1,8 @@
 # Hi, I'm E Jun
 
 ## About Me
-I am a Computing student at Universiti Teknologi Malaysia (UTM).  
+I am a first year Computing student at Universiti Teknologi Malaysia (UTM).
+I am currently learning fundamental concepts in information systems, hardware, and problem-solving through practical assignments.
 This GitHub profile is used as my e-portfolio for the course Technology and Information System (SECP1513).
 
 ## Education
