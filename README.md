@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm E Jun
 
-<!--
-**ziv0822/ziv0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Computing student at Universiti Teknologi Malaysia (UTM).  
+This GitHub profile is used as my e-portfolio for the course Technology and Information System (SECP1513).
 
-Here are some ideas to get you started:
+## Education
+-  Bachelor of Computer Science (Computer Networks & Security)  
+  Universiti Teknologi Malaysia (UTM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming: C++, Basic Python
+- Tools: Git, GitHub
+- Technical: PC Assembly, Basic Networking
+- Soft Skills: Teamwork, Communication
+
+## Course Portfolio (SECP1513)
+- Industry Talk & Industry Visit
+- PC Assemble Lab 
+- Design Thinking 
