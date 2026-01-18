@@ -1,4 +1,4 @@
-# Hi, I'm E Jun
+<h1 align="center">HI👋!! I'm Toh E Jun</h1>
 
 ## About Me
 I am a first year Computing student at Universiti Teknologi Malaysia (UTM).
