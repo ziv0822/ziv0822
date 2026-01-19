@@ -25,3 +25,6 @@ This GitHub profile is used as my e-portfolio for the course Technology and Info
 <a href="https://www.instagram.com/ziv_0822/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40"></a>
 </p>
+
+### E-portfolio
+This link for my <a href="https://ziv0822.github.io/eportfolio/" target = _blank>E-Portfolio </a> 
