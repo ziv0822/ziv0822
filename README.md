@@ -13,10 +13,6 @@ I am currently learning fundamental concepts in information systems, hardware, a
 
 ### ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,github)
 
-## Course Portfolio (SECP1513)
-- Industry Talk & Industry Visit
-- PC Assemble Lab 
-- Design Thinking 
 
 ## Contact with me📲
 <p align="left">
